@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\1-Numbers-One-To-One-Hundred\bin\Debug\net8.0\1-Numbers-One-To-One-Hundred.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\1-Numbers-One-To-One-Hundred\bin\Debug\net8.0\1-Numbers-One-To-One-Hundred.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\1-Numbers-One-To-One-Hundred\bin\Debug\net8.0\1-Numbers-One-To-One-Hundred.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\1-Numbers-One-To-One-Hundred\bin\Debug\net8.0\1-Numbers-One-To-One-Hundred.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\1-Numbers-One-To-One-Hundred\bin\Debug\net8.0\1-Numbers-One-To-One-Hundred.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\1-Numbers-One-To-One-Hundred\obj\Debug\net8.0\1-Numbers-One-To-One-Hundred.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\1-Numbers-One-To-One-Hundred\obj\Debug\net8.0\1-Numbers-One-To-One-Hundred.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\1-Numbers-One-To-One-Hundred\obj\Debug\net8.0\1-Numbers-One-To-One-Hundred.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\1-Numbers-One-To-One-Hundred\obj\Debug\net8.0\1-Numbers-One-To-One-Hundred.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\1-Numbers-One-To-One-Hundred\obj\Debug\net8.0\1-Numbers-One-To-One-Hundred.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\1-Numbers-One-To-One-Hundred\obj\Debug\net8.0\refint\1-Numbers-One-To-One-Hundred.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\1-Numbers-One-To-One-Hundred\obj\Debug\net8.0\1-Numbers-One-To-One-Hundred.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\1-Numbers-One-To-One-Hundred\obj\Debug\net8.0\1-Numbers-One-To-One-Hundred.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\1-Numbers-One-To-One-Hundred\obj\Debug\net8.0\ref\1-Numbers-One-To-One-Hundred.dll

@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\3-Sequence\obj\Debug\net8.0\3-Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\3-Sequence\obj\Debug\net8.0\3-Sequence.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\3-Sequence\obj\Debug\net8.0\3-Sequence.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\3-Sequence\obj\Debug\net8.0\3-Sequence.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\3-Sequence\bin\Debug\net8.0\3-Sequence.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\3-Sequence\bin\Debug\net8.0\3-Sequence.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\3-Sequence\bin\Debug\net8.0\3-Sequence.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\3-Sequence\bin\Debug\net8.0\3-Sequence.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\3-Sequence\bin\Debug\net8.0\3-Sequence.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\3-Sequence\obj\Debug\net8.0\3-Sequence.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\3-Sequence\obj\Debug\net8.0\refint\3-Sequence.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\3-Sequence\obj\Debug\net8.0\3-Sequence.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\3-Sequence\obj\Debug\net8.0\3-Sequence.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\3-Sequence\obj\Debug\net8.0\ref\3-Sequence.dll

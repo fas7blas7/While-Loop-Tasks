@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\4-SumDigits\bin\Debug\net8.0\4-SumDigits.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\4-SumDigits\bin\Debug\net8.0\4-SumDigits.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\4-SumDigits\bin\Debug\net8.0\4-SumDigits.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\4-SumDigits\bin\Debug\net8.0\4-SumDigits.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\4-SumDigits\bin\Debug\net8.0\4-SumDigits.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\4-SumDigits\obj\Debug\net8.0\4-SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\4-SumDigits\obj\Debug\net8.0\4-SumDigits.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\4-SumDigits\obj\Debug\net8.0\4-SumDigits.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\4-SumDigits\obj\Debug\net8.0\4-SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\4-SumDigits\obj\Debug\net8.0\4-SumDigits.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\4-SumDigits\obj\Debug\net8.0\refint\4-SumDigits.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\4-SumDigits\obj\Debug\net8.0\4-SumDigits.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\4-SumDigits\obj\Debug\net8.0\4-SumDigits.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\4-SumDigits\obj\Debug\net8.0\ref\4-SumDigits.dll

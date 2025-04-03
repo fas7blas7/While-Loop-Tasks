@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\5-OddNumbers\bin\Debug\net8.0\5-OddNumbers.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\5-OddNumbers\bin\Debug\net8.0\5-OddNumbers.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\5-OddNumbers\bin\Debug\net8.0\5-OddNumbers.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\5-OddNumbers\bin\Debug\net8.0\5-OddNumbers.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\5-OddNumbers\bin\Debug\net8.0\5-OddNumbers.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\5-OddNumbers\obj\Debug\net8.0\5-OddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\5-OddNumbers\obj\Debug\net8.0\5-OddNumbers.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\5-OddNumbers\obj\Debug\net8.0\5-OddNumbers.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\5-OddNumbers\obj\Debug\net8.0\5-OddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\5-OddNumbers\obj\Debug\net8.0\5-OddNumbers.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\5-OddNumbers\obj\Debug\net8.0\refint\5-OddNumbers.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\5-OddNumbers\obj\Debug\net8.0\5-OddNumbers.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\5-OddNumbers\obj\Debug\net8.0\5-OddNumbers.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\10-WHILE-LOOP\WHILE-LOOPS\5-OddNumbers\obj\Debug\net8.0\ref\5-OddNumbers.dll

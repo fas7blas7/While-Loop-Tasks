@@ -17,6 +17,10 @@ This repository contains small but essential C# programs that focus on fundament
 │    ├—— Sequence.cs
 │—— /Task4_SumDigits
 │    ├—— SumDigits.cs
+│—— /Task5_OddNumbers
+│    ├—— OddNumbers.cs
+│—— /Task6_NumberInRange
+│    ├—— NumberInRange.cs
 │—— README.md
 
 Each task is stored in a separate folder named according to its purpose. The .cs files contain the C# source code for each task.
@@ -156,14 +160,68 @@ namespace _4_SumDigits
 }
 ```
 
+5️⃣ Odd Numbers 🔢
+
+Namespace: _5_OddNumbers
+📌 Description:
+Reads an integer and keeps asking for a new input until an odd number is entered.
+
+📝 Code:
+```csharp
+namespace _5_OddNumbers
+{
+    internal class OddNumbers
+    {
+        static void Main(string[] args)
+        {
+            int num = int.Parse(Console.ReadLine());
+
+            while (num % 2 == 0)
+            {
+                num = int.Parse(Console.ReadLine());
+            }
+
+            Console.WriteLine(num);
+        }
+    }
+}
+```
+
+6️⃣ Number In Range 🔢
+
+Namespace: _6_NumberInRange
+📌 Description:
+Reads an integer and keeps asking until the number is between 1 and 100.
+
+📝 Code:
+```csharp
+namespace _6_NumberInRange
+{
+    internal class NumberInRange
+    {
+        static void Main(string[] args)
+        {
+            int number = int.Parse(Console.ReadLine());
+
+            while (number < 1 || number > 100)
+            {
+                number = int.Parse(Console.ReadLine());
+            }
+    
+            Console.WriteLine($"{number}");
+        }
+    }
+}
+```
+
 🎯 Commit Progress Tracker
 
 🚀 Goal: 500 commits in 2025
-📅 Current Progress: 344 commits
+📅 Current Progress: 347 commits
 
 📊 Progress Bar:
 
-████████████████████▒▒▒▒▒ 68.8% (344/500)
+█████████████████████▒▒▒ 69.4% (347/500)
 
 📌 Milestones:
 ✅ 100 commits
@@ -171,4 +229,3 @@ namespace _4_SumDigits
 ✅ 300 commits
 🔲 400 commits
 🔲 500 commits (🎉)
-

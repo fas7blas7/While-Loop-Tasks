@@ -188,6 +188,42 @@ namespace _5_OddNumbers
 ```
 
 6️⃣ Number In Range 🔢
+7️⃣ Number Processor 🔁  
+**Namespace:** `_7_NumberProcessor`  
+📌 **Description:**  
+Reads an initial number and allows incrementing or decrementing it via commands until "End" is entered.
+
+📝 **Code:**
+```csharp
+namespace _7_NumberProcessor
+{
+    internal class NumberProcessor
+    {
+        static void Main(string[] args)
+        {
+            int initialNumber = int.Parse(Console.ReadLine());
+            string command = Console.ReadLine();
+
+            while (command != "End")
+            {
+                switch (command)
+                {
+                    case "Inc":
+                        initialNumber++;
+                        break;
+                    case "Dec":
+                        initialNumber--;
+                        break;
+                }    
+                command = Console.ReadLine();
+            }
+
+            Console.WriteLine(initialNumber);
+        }
+    }
+}
+```
+
 
 Namespace: _6_NumberInRange
 📌 Description:
@@ -217,11 +253,11 @@ namespace _6_NumberInRange
 🎯 Commit Progress Tracker
 
 🚀 Goal: 500 commits in 2025
-📅 Current Progress: 347 commits
+📅 Current Progress: 349 commits
 
 📊 Progress Bar:
 
-█████████████████████▒▒▒ 69.4% (347/500)
+██████████████████████▒▒ 69.8% (349/500)
 
 📌 Milestones:
 ✅ 100 commits

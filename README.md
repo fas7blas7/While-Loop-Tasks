@@ -188,7 +188,34 @@ namespace _5_OddNumbers
 ```
 
 6️⃣ Number In Range 🔢
-7️⃣ Number Processor 🔁  
+
+Namespace: _6_NumberInRange
+📌 Description:
+Reads an integer and keeps asking until the number is between 1 and 100.
+
+📝 Code:
+```csharp
+namespace _6_NumberInRange
+{
+    internal class NumberInRange
+    {
+        static void Main(string[] args)
+        {
+            int number = int.Parse(Console.ReadLine());
+
+            while (number < 1 || number > 100)
+            {
+                number = int.Parse(Console.ReadLine());
+            }
+    
+            Console.WriteLine($"{number}");
+        }
+    }
+}
+```
+
+7️⃣ Number Processor 🔁
+
 **Namespace:** `_7_NumberProcessor`  
 📌 **Description:**  
 Reads an initial number and allows incrementing or decrementing it via commands until "End" is entered.
@@ -224,32 +251,6 @@ namespace _7_NumberProcessor
 }
 ```
 
-
-Namespace: _6_NumberInRange
-📌 Description:
-Reads an integer and keeps asking until the number is between 1 and 100.
-
-📝 Code:
-```csharp
-namespace _6_NumberInRange
-{
-    internal class NumberInRange
-    {
-        static void Main(string[] args)
-        {
-            int number = int.Parse(Console.ReadLine());
-
-            while (number < 1 || number > 100)
-            {
-                number = int.Parse(Console.ReadLine());
-            }
-    
-            Console.WriteLine($"{number}");
-        }
-    }
-}
-```
-
 🎯 Commit Progress Tracker
 
 🚀 Goal: 500 commits in 2025
@@ -257,7 +258,7 @@ namespace _6_NumberInRange
 
 📊 Progress Bar:
 
-██████████████████████▒▒ 69.8% (349/500)
+██████████████████████▒▒ 70.0% (350/500)
 
 📌 Milestones:
 ✅ 100 commits
